@@ -9,7 +9,7 @@ class TodoListView extends Component<Props> {
     //     super(todoList);
 
     // }
-    render() {
+    render() { 
         return (
             <div>
                 <ul>
